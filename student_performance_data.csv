@@ -1,0 +1,101 @@
+StudentID,Name,Age,Gender,Class,Math Score,English Score,Science Score,Attendance (%),Study Time (hrs/week),Extracurricular,Learning Style
+1,Student_1,17,M,SS3,59,90,59,91,5,Chess Club,Visual
+2,Student_2,18,F,SS3,99,61,40,94,5,Art Club,Auditory
+3,Student_3,15,F,SS1,98,94,47,98,11,Chess Club,Auditory
+4,Student_4,17,F,SS1,75,61,85,83,6,Chess Club,Kinesthetic
+5,Student_5,17,F,SS2,58,85,55,97,10,Drama Club,Kinesthetic
+6,Student_6,18,F,SS1,65,69,53,74,4,Debate Club,Kinesthetic
+7,Student_7,15,F,SS3,42,77,51,84,18,Debate Club,Auditory
+8,Student_8,15,F,SS3,58,77,90,86,4,Drama Club,Read/Write
+9,Student_9,17,F,SS1,59,84,62,99,17,None,Read/Write
+10,Student_10,16,M,SS3,71,90,54,83,5,Basketball,Auditory
+11,Student_11,17,F,SS3,46,93,67,99,19,None,Auditory
+12,Student_12,17,M,SS1,91,47,73,89,18,Football,Auditory
+13,Student_13,17,F,SS1,80,66,41,74,8,Football,Auditory
+14,Student_14,17,F,SS3,72,66,71,81,6,Chess Club,Auditory
+15,Student_15,18,M,SS3,79,73,62,85,13,Art Club,Auditory
+16,Student_16,15,F,SS3,78,60,61,95,18,Art Club,Kinesthetic
+17,Student_17,18,M,SS2,57,69,90,95,14,Debate Club,Kinesthetic
+18,Student_18,18,F,SS2,79,72,64,85,4,Science Club,Kinesthetic
+19,Student_19,18,F,SS2,40,67,97,90,10,None,Kinesthetic
+20,Student_20,17,M,SS1,50,86,100,76,18,Choir,Auditory
+21,Student_21,16,F,SS2,67,72,61,73,18,Art Club,Read/Write
+22,Student_22,15,M,SS1,96,44,97,70,17,Choir,Visual
+23,Student_23,16,F,SS1,64,99,97,99,14,Chess Club,Auditory
+24,Student_24,18,M,SS2,89,100,61,99,20,Choir,Visual
+25,Student_25,18,M,SS2,62,87,88,74,18,Drama Club,Read/Write
+26,Student_26,16,F,SS2,70,58,91,92,5,Choir,Kinesthetic
+27,Student_27,16,F,SS3,69,43,81,95,13,Basketball,Read/Write
+28,Student_28,16,M,SS2,81,74,45,79,10,Chess Club,Auditory
+29,Student_29,18,F,SS3,74,88,54,91,20,None,Kinesthetic
+30,Student_30,18,F,SS1,46,56,93,74,13,Drama Club,Auditory
+31,Student_31,15,F,SS3,99,83,82,73,10,Art Club,Kinesthetic
+32,Student_32,15,M,SS2,55,67,99,71,8,Football,Visual
+33,Student_33,18,M,SS1,65,69,76,89,15,None,Visual
+34,Student_34,16,M,SS1,87,68,72,100,20,Football,Visual
+35,Student_35,16,M,SS1,96,85,47,79,16,Chess Club,Read/Write
+36,Student_36,15,M,SS3,91,92,92,95,17,Drama Club,Auditory
+37,Student_37,18,M,SS2,99,45,99,88,6,Debate Club,Read/Write
+38,Student_38,15,M,SS1,88,74,83,95,4,Art Club,Visual
+39,Student_39,15,M,SS1,41,99,83,70,13,Basketball,Auditory
+40,Student_40,17,M,SS1,40,80,44,93,5,Debate Club,Visual
+41,Student_41,17,F,SS3,87,76,78,74,17,Chess Club,Read/Write
+42,Student_42,17,M,SS3,51,63,43,82,8,None,Read/Write
+43,Student_43,16,F,SS2,44,68,45,73,14,Basketball,Read/Write
+44,Student_44,18,F,SS3,76,88,84,85,11,Choir,Visual
+45,Student_45,18,F,SS1,71,85,71,93,8,Basketball,Auditory
+46,Student_46,18,M,SS2,98,92,91,85,15,Chess Club,Auditory
+47,Student_47,18,M,SS1,94,70,69,92,6,Science Club,Visual
+48,Student_48,17,M,SS1,48,74,86,71,4,Choir,Auditory
+49,Student_49,16,M,SS3,80,99,74,86,12,Football,Visual
+50,Student_50,16,F,SS2,74,72,94,97,12,Art Club,Auditory
+51,Student_51,17,M,SS3,58,91,79,96,19,Football,Kinesthetic
+52,Student_52,16,M,SS3,87,100,91,89,16,Basketball,Kinesthetic
+53,Student_53,17,M,SS2,55,60,55,93,13,Football,Read/Write
+54,Student_54,18,M,SS1,42,71,52,81,10,Chess Club,Kinesthetic
+55,Student_55,17,M,SS1,59,62,89,87,11,None,Kinesthetic
+56,Student_56,18,F,SS2,63,72,99,72,13,Art Club,Kinesthetic
+57,Student_57,18,M,SS1,93,42,81,97,18,Football,Visual
+58,Student_58,15,F,SS2,95,57,69,70,7,Football,Kinesthetic
+59,Student_59,17,M,SS2,72,64,58,70,8,Basketball,Kinesthetic
+60,Student_60,15,F,SS3,63,81,56,98,15,None,Read/Write
+61,Student_61,17,M,SS2,91,70,95,88,14,Debate Club,Kinesthetic
+62,Student_62,17,M,SS3,50,93,58,80,9,Football,Kinesthetic
+63,Student_63,15,F,SS1,88,97,67,74,11,Chess Club,Auditory
+64,Student_64,15,F,SS1,47,42,97,81,10,Science Club,Read/Write
+65,Student_65,17,F,SS1,75,79,94,72,19,Art Club,Read/Write
+66,Student_66,16,M,SS1,77,85,65,70,3,Football,Read/Write
+67,Student_67,18,F,SS3,79,63,76,70,6,Chess Club,Read/Write
+68,Student_68,15,M,SS1,59,89,65,77,6,Chess Club,Read/Write
+69,Student_69,18,M,SS2,74,71,92,79,7,Art Club,Read/Write
+70,Student_70,16,F,SS2,87,86,62,80,20,Debate Club,Visual
+71,Student_71,16,F,SS2,64,61,48,81,9,Chess Club,Kinesthetic
+72,Student_72,16,M,SS3,74,62,51,98,17,Science Club,Read/Write
+73,Student_73,15,M,SS1,64,41,92,82,14,Chess Club,Kinesthetic
+74,Student_74,16,F,SS1,68,66,40,81,2,Chess Club,Kinesthetic
+75,Student_75,15,F,SS1,57,81,97,100,18,Chess Club,Visual
+76,Student_76,16,F,SS3,85,41,97,83,8,Debate Club,Read/Write
+77,Student_77,18,M,SS2,57,65,40,71,14,Football,Auditory
+78,Student_78,18,M,SS2,41,56,86,98,5,Chess Club,Visual
+79,Student_79,17,M,SS1,93,79,73,88,5,None,Auditory
+80,Student_80,18,M,SS2,74,72,71,87,7,Football,Kinesthetic
+81,Student_81,17,M,SS2,55,48,93,72,20,Debate Club,Kinesthetic
+82,Student_82,18,M,SS3,100,82,87,92,13,Drama Club,Visual
+83,Student_83,15,F,SS3,80,93,64,86,8,Football,Visual
+84,Student_84,18,M,SS3,75,87,79,95,11,Football,Auditory
+85,Student_85,17,M,SS3,72,78,84,77,20,Choir,Read/Write
+86,Student_86,17,M,SS1,43,68,92,98,8,Basketball,Auditory
+87,Student_87,16,F,SS3,72,81,40,95,4,Choir,Visual
+88,Student_88,15,M,SS2,53,94,55,79,14,Science Club,Auditory
+89,Student_89,18,M,SS1,60,65,100,95,14,Basketball,Visual
+90,Student_90,16,F,SS2,87,74,78,99,19,Art Club,Auditory
+91,Student_91,18,M,SS2,59,89,44,71,9,Art Club,Visual
+92,Student_92,18,M,SS2,95,64,61,88,10,Debate Club,Visual
+93,Student_93,16,M,SS3,47,63,68,78,8,Basketball,Visual
+94,Student_94,16,M,SS3,46,52,94,76,2,Football,Read/Write
+95,Student_95,16,M,SS1,42,99,42,73,4,Art Club,Auditory
+96,Student_96,16,F,SS1,56,97,51,95,14,Chess Club,Auditory
+97,Student_97,16,F,SS3,72,46,65,90,18,None,Auditory
+98,Student_98,18,F,SS2,87,96,55,87,2,Football,Visual
+99,Student_99,16,M,SS1,51,75,90,82,7,Science Club,Auditory
+100,Student_100,15,M,SS3,98,84,76,80,7,Chess Club,Auditory
