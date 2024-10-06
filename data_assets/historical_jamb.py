@@ -20,7 +20,7 @@ def generate_jamb_results(students, jamb_years):
     success_rate_increase = 0.05  # 5% increase in success rate per year
 
     for year_index, jamb_year in enumerate(jamb_years):
-        base_success_rate = 0.7 + (year_index * success_rate_increase)
+        base_success_rate = 0.4 + (year_index * success_rate_increase)
         admission_year = jamb_year - 3  # Students who write JAMB were admitted 3 years prior
 
         for student in students:
@@ -39,8 +39,8 @@ def generate_jamb_results(students, jamb_years):
                 total_score = 0
                 subject_scores = {}
                 for subject in subjects:
-                    base_score = random.uniform(50, 90)  # Base score between 50 and 90
-                    score = min(100, base_score * (1 + random.uniform(0, 0.2)))  # Up to 20% increase
+                    base_score = random.uniform(30, 90)  # Base score between 30 and 90
+                    score = min(100, base_score * (1 + random.uniform(0, 0.1)))  # Up to 20% increase
                     subject_scores[subject] = round(score, 2)
                     total_score += score
 

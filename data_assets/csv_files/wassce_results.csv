@@ -1,4 +1,4 @@
-Student_ID,Year_Of_Admission,WASSCE_Year,Discipline_ID,Discipline,Aspiring_Profession,Gender,English,Mathematics,Civic Education,ICT,Literature,Government/History,Religious Studies,"Language (Yoruba, French, Igbo)",Bookkeeping,Economics,Accounting,Commerce,Marketing,Dyeing and bleaching,Physics,Chemistry,Food Nutrition,Biology,Electrical work,Agriculture,Technical Drawing
+Student_ID,Year_Of_Admission,WASSCE_Year,Discipline_ID,Discipline,Aspiring_Profession,Gender,English,Mathematics,Civic_Education,ICT,Literature,Government_or_History,Religious_Studies,_Language_Yoruba,_French_Igbo,Bookkeeping,Economics,Accounting,Commerce,Marketing,Dyeing_and_bleaching,Physics,Chemistry,Food_Nutrition,Biology,Electrical_work,Agriculture,Technical_Drawing
 86ff68ca-88c1-433e-8e02-2ee2f28476d5,2018,2021,1,Art,Writer,Female,C,B,C,B,C,A,B,C,B,,,,,,,,,,,,
 8212a84c-bd64-41a7-9666-39e1fe7e2660,2018,2021,2,Commercial,Entrepreneur,Male,B,A,A,B,,,,,,C,F,D,C,F,,,,,,,
 5037d342-53b0-487e-969e-145076f49386,2018,2021,2,Commercial,Economist,Male,D,B,C,C,,,,,,C,E,D,C,A,,,,,,,
