@@ -4,10 +4,8 @@ import pandas as pd
 import duckdb
 from datetime import date, timedelta
 
-# Initialize Faker for Nigeria localization
-# fake = Faker('en_NG')  # en_NG localizes names to Nigeria
 
-# Constants
+
 grades = {'SS1': 1, 'SS2': 2, 'SS3': 3}
 disciplines = {'Art': 1, 'Commercial': 2, 'Science': 3, 'Technology': 4}
 religions = ['Christian', 'Islam']
@@ -18,22 +16,20 @@ states_of_origin = ["Abia", "Adamawa", "Akwa Ibom", "Anambra", "Bauchi", "Bayels
 clubs = ['Drama Club', 'Music Club', 'Press Club', 'Chess Club', 'Debating Club', 'Fine Arts', 'Homemakers Club', 
          'JETS Club', 'Red Cross', 'Computer Club', 'Mathematics Club']
 
-# Aspiring professions based on disciplines
+
 aspiring_professions = {
     'Art': ['Artist', 'Writer', 'Fashion Designer', 'Actor', 'Journalist'],
     'Commercial': ['Business Executive', 'Accountant', 'Marketer', 'Entrepreneur', 'Economist'],
-    'Science': ['Doctor', 'Pharmacist', 'Biologist', 'Scientist', 'Engineer'],
-    'Technology': ['Software Developer', 'Engineer', 'Data Scientist', 'Technologist', 'Computer Scientist']
+    'Science': ['Doctor', 'Pharmacist', 'Biologist', 'Scientist', 'Engineer',  'Software Developer', 'Engineer', 'Data Scientist', 'Technologist', 'Computer Scientist']
 }
 
-# Function to calculate the admission date (1st weekday of September)
 def admission_date(year):
     first_september = date(year, 9, 1)
     while first_september.weekday() > 4:
         first_september += timedelta(days=1)
     return first_september
 
-# Function to generate students
+
 def generate_students(count, grade, min_age, max_age, admission_year):
     students = []
     for i in range(count):
