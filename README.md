@@ -36,6 +36,6 @@ dbt run # models
 - data_assets
   - csv_files
   - transform_assets: here we transform csv_files such as `student_data.csv`, `student_classes.csv`, `wassce_results.csv` and `student_info.csv`
-- ingestion 
+- ingestion  
   - init.sql:  docker would run this file
 - school_data_warehouse: run dbt models for transformation for the ML
