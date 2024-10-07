@@ -4,6 +4,7 @@ import datetime
 import uuid
 import pandas as pd
 import csv
+import re
 
 fake = Faker()
 
