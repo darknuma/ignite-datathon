@@ -4,6 +4,7 @@ import datetime
 import uuid
 import pandas as pd
 import csv
+import re
 
 fake = Faker()
 
@@ -325,7 +326,7 @@ def save_students_results_to_csv(results, filename="students_results.csv"):
         writer.writeheader()
         for student in results:
             writer.writerow(student)
-students = generate_students(1350)
+students = generate_students(1400)
 
 student_classes = generate_student_classes(students)
 

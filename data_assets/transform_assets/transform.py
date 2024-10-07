@@ -55,8 +55,8 @@ def replace_spaces_in_headers(input_file, output_file):
                 writer.writerow(row)
 
 
-# input_file = "../csv_files/students_data.csv"  # Path to your input CSV file
-# output_file = "../csv_files/students_data.csv"  # Path for the output fixed CSV file
+input_file = "../csv_files/students_data.csv"  # Path to your input CSV file
+output_file = "../students_data.csv"  # Path for the output fixed CSV file
 
 input_subject = "../csv_files/student_classes.csv"
 output_file_subject = "../student_classes.csv"
@@ -67,8 +67,8 @@ replace_brackets_in_subjects(input_subject, output_file_subject)
 
 print("CSV headers updated successfully.")
 
-# # Call the function to fix the CSV
-# fix_club_array_format(input_file, output_file)
-# # fix_subjects_array_format(input_subject, output_file_subject)
+# Call the function to fix the CSV
+fix_club_array_format(input_file, output_file)
+# fix_subjects_array_format(input_subject, output_file_subject)
 
-# print("CSV has been updated successfully.")
+print("CSV has been updated successfully.")
