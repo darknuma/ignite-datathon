@@ -15,4 +15,6 @@ clean-targets:
 
 models:
   school_data_warehouse:
-    materialized: table
+    # Config indicated by + and applies to all files under models/example/
+    first_layer:
+      +materialized: table
