@@ -38,4 +38,6 @@ dbt run # models
   - transform_assets: here we transform csv_files such as `student_data.csv`, `student_classes.csv`, `wassce_results.csv` and `student_info.csv`
 - ingestion  
   - init.sql:  docker would run this file
-- school_data_warehouse: run dbt models for transformation for student_results.sql  
+- school_data_warehouse: run dbt models for transformation for student_results.sql
+- machine_learning: contains the models we built for the project
+- deliverables: contains the documentation of the process and Analytics Report (of PowerBI)
