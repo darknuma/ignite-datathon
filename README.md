@@ -2,7 +2,7 @@
 
 ## About this Project
 
-DataFestAfrica Hackathon 2024: Improving  Academic Outcome For Secondary Education, Team Ignite uses data generation method to model Federal Government Unity Schools for data, and we utilise
+DataFestAfrica Hackerthon 2024: Improving  Academic Outcome For Secondary Education, Team Ignite uses data generation method to model Federal Government Unity Schools for data, and we utilize
 some core data about student history of results and current results, student bios, class bios, the school former's historical results for wassce and jamb.
 
 - Data Engineering: Use of **PostgreSQL** for the database warehouse, going forward data is collected from the schools and ingested to PostgreSQL database.
